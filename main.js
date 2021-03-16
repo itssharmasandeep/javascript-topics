@@ -1,0 +1,1 @@
+console.log("It is main.js and it is working")
